@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Electronics", "subcategories": ["Mobiles", "Laptops", "Tablets", "Cameras", "Accessories"] },
+  { "id": 2, "name": "Fashion", "subcategories": ["Men's Clothing", "Women's Clothing", "Footwear", "Watches", "Bags"] },
+  { "id": 3, "name": "Home & Kitchen", "subcategories": ["Furniture", "Home Decor", "Kitchen Appliances", "Dining", "Storage"] },
+  { "id": 4, "name": "Appliances", "subcategories": ["Refrigerators", "Washing Machines", "Air Conditioners", "Microwaves", "Small Appliances"] },
+  { "id": 5, "name": "Books", "subcategories": ["Fiction", "Non-Fiction", "Children's Books", "Academic", "Comics"] },
+  { "id": 6, "name": "Beauty & Personal Care", "subcategories": ["Makeup", "Skincare", "Haircare", "Fragrances", "Tools"] },
+  { "id": 7, "name": "Sports & Fitness", "subcategories": ["Cricket", "Football", "Gym Equipment", "Cycling", "Outdoor"] },
+  { "id": 8, "name": "Toys & Baby", "subcategories": ["Toys", "Baby Gear", "School Supplies", "Kids Clothing", "Games"] },
+  { "id": 9, "name": "Automotive", "subcategories": ["Car Accessories", "Bike Accessories", "Spare Parts", "Oils & Lubricants", "Tools"] },
+  { "id": 10, "name": "Grocery", "subcategories": ["Beverages", "Snacks", "Staples", "Personal Care", "Household"] }
+] 

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "subcategory": "Mobiles",
+    "title": "Apple iPhone 15 Pro",
+    "description": "Latest Apple flagship …",
+    "image": "https://images.unsplash.com/photo-1530133532237-532133b2a68d",
+    "review": "Amazing camera and battery life!",
+    "price": 1199.99,
+    "offer": "Save ₹10,000",
+    "seller": "Apple Store"
+  },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "subcategory": "Mobiles",
+    "title": "Samsung Galaxy S24 Ultra",
+    "description": "Premium Android phone …",
+    "image": "https://images.unsplash.com/photo-1560705999-54aaf3b58b72",
+    "review": "Best Android phone of the year!",
+    "price": 1299.99,
+    "offer": "10% off",
+    "seller": "Samsung Official"
+  },
+  {
+    "id": 3,
+    "categoryId": 2,
+    "subcategory": "Men's Clothing",
+    "title": "Levi's Men's Slim Jeans",
+    "description": "Classic slim fit jeans…",
+    "image": "https://images.unsplash.com/photo-1581582865757-19bb2b3f1dc7",
+    "review": "Comfortable and stylish.",
+    "price": 49.99,
+    "offer": "Buy 1 Get 1 50% Off",
+    "seller": "Levi's Store"
+  },
+  {
+    "id": 4,
+    "categoryId": 2,
+    "subcategory": "Men's Clothing",
+    "title": "Nike Men's Sports T-Shirt",
+    "description": "Breathable, quick-dry sports t-shirt…",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+    "review": "Perfect for workouts.",
+    "price": 29.99,
+    "offer": "Flat 20% Off",
+    "seller": "Nike Official"
+  },
+  {
+    "id": 5,
+    "categoryId": 3,
+    "subcategory": "Furniture",
+    "title": "Ikea Poäng Armchair",
+    "description": "Comfortable and stylish armchair…",
+    "image": "https://images.unsplash.com/photo-1567016432779-93ae4d99f395",
+    "review": "Great for reading and relaxing.",
+    "price": 129.99,
+    "offer": "Save ₹2,000",
+    "seller": "Ikea Store"
+  },
+  {
+    "id": 6,
+    "categoryId": 3,
+    "subcategory": "Furniture",
+    "title": "Urban Ladder Coffee Table",
+    "description": "Modern wooden coffee table…",
+    "image": "https://images.unsplash.com/photo-1598300052075-0fe4f1cebd4f",
+    "review": "Sturdy and elegant.",
+    "price": 89.99,
+    "offer": "15% Off",
+    "seller": "Urban Ladder"
+  }
+]

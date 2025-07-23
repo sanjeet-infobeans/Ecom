@@ -1,11 +1,13 @@
 const express = require("express");
 const { createProxyMiddleware } = require("http-proxy-middleware");
+const cors = require("cors");
 const fs = require("fs");
 const path = require("path");
 require("dotenv").config();
 
 const app = express();
 
+app.use(cors());
 // Static endpoints.....................
 
 function readJson(file) {
